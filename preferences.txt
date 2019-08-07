@@ -1,0 +1,39 @@
+1
+
+genbio-lec
+- 0
+
+genbio-tut
++ 2 3 4 5 7 0
+
+techre
+- 0
+
+workshop
+- 0
+
+es-lec
++ 1 0
+
+es-tut
++ 1 7 10 12 0
+
+thermo-lec
++ 1 0
+
+thermo-tut
++ 2 8 18 19 0
+
+ps-lec
++ 2 0
+
+ps-tut
++ 1 2 3 4 9 10 11 14 15 17 18 23 0
+
+m2-lec
+- 0
+
+m2-tut
++ 1 6 7 11 15 22 23 25 0
+
+file-end
